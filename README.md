@@ -12,7 +12,7 @@
 
 ## TPU performance queries
 - [Original, tiny sample data](tpu.csv)
-- [Sample data generator](Sample data generator.ipynb)
+- [Sample data generator](Sample%20data%20generator.ipynb)
 - [Sample generated data for 100 users to test queries](sample_data.csv)
 - ["Setup" query to generate schema and populate with sample data](setup.sql)
 - [Main query file with view to answer posed questions](queries.sql)
