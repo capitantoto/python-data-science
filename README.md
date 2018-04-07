@@ -6,7 +6,7 @@
 - PostgreSQL 9.6.8
 
 ## Alphavantage data analysis
-- [Main analysis notebook](Alphavantage data analysis.ipynb)
+- [Main analysis notebook](Alphavantage%20data%20analysis.ipynb)
 - [Open/Close prices plot](BTC_open_close.png)
 - [Downloaded data](alphavantage.csv)
 
@@ -28,7 +28,7 @@ The answers to the specific questions can be found by "SELECT * FROM"-querying t
 
 ## Encuesta Nacional de Industrias data analysis
 
-- [Main cleaning/analysis notebook](Encuesta Industrial de Chile data analysis.ipynb)
+- [Main cleaning/analysis notebook](Encuesta%20Industrial%20de%20Chile%20data%20analysis.ipynb)
 
 I did not have time to finish these exercise, but I did complete the cleaning tasks.
 
