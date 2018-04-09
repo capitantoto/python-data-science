@@ -68,4 +68,4 @@ CREATE VIEW tpu_average_time_delta AS
 SELECT 	device_id,
 	AVG(time_delta) AS avg_time_delta
 FROM 	tpu_purchase_time_deltas
-;
+GROUP BY device_id;
